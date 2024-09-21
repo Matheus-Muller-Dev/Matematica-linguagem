@@ -1,2 +1,2 @@
-# Matematica-linguagem
-Matematica basica e aplicada em programação
+# Matem-tica
+Operações matématicas em node.js.
