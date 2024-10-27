@@ -1,0 +1,8 @@
+string.split(separador, maxsplit)
+
+texto = "Aprendendo Python"
+palavras = texto.split()
+print(palavras)
+
+
+https://ime.usp.br/~leo/mac2166/2017-1/introducao_vetores_python.html
